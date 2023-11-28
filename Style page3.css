@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Borel&family=Dancing+Script&family=Pacifico&display=swap");
+body {
+    background: url(./img/Logo-FiresportEsport\ D1.png);
+    background-position: center center;
+    background-color: black;
+    min-height: 100vh; /*100%taille de l'écran*/
+}
+h3 {
+    font-family: "Pacifico", cursive;
+    margin: 0;
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: darkslateblue;
+}
+h4 {
+    font-family: "borel", cursive;
+    margin: 0;
+    font-size: 1.2rem;
+    color: cadetblue;
+    background-color: antiquewhite;
+    width: 132px;
+}
+h5 {
+    font-family: "borel", cursive;
+    font-size: 1.2rem;
+    margin: 0;
+    color: darkgoldenrod;
+}
+li {
+    font-size: 1.2rem;
+    text-decoration: underline;
+    font-family: "Pacifico", cursive;
+    color: darkslateblue;
+    background-color: rgba(245, 245, 220, 0.459);
+}
+img {
+    border: 6px solid firebrick;
+    box-shadow: 0 0 10px 8px rgb(0 0 0);
+}
+p {
+    font-size: 1.2rem;
+}
+#button {
+    font-family: "Borel", cursive;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 0;
+    cursor: pointer;
+}
